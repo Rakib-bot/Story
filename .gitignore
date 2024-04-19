@@ -1,2 +1,6 @@
 .DS_Store
 screet.txt
+main.bin
+main.o
+main.exe
+.cph/
