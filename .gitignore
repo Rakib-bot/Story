@@ -3,4 +3,10 @@ screet.txt
 *.bin
 *.o
 *.exe
+*.c
+*.h
+*.cpp
 .cph/
+*.java
+
+
